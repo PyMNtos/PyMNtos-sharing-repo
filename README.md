@@ -11,7 +11,7 @@ Monthly meet up on Python presentation night, listed in reverse chronological or
 
 
 
-#### 2017-11-09, [Presentation Night @ BuzzFeed (PPN #56)](https://www.meetup.com/PyMNtos-Twin-Cities-Python-User-Group/events/244319751/ PPN #56)
+#### 2017-11-09, [Presentation Night @ BuzzFeed (PPN #56)](https://www.meetup.com/PyMNtos-Twin-Cities-Python-User-Group/events/244319751 "PPN #56")
 
 1. James Rone - Project SUCCESS
 2. David Xu - [Introduction to Python Method Resolution Order (MRO)](PythonPresentationNight\2017-11_MRO_David-Xu.pptx)
