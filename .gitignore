@@ -1,3 +1,5 @@
+# Project specific ignores in addition to standard github Python ignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
